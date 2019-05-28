@@ -20,8 +20,8 @@ end
 
 def self.drop_table
   sql = <<-SQL
-  DROP TABLE dogs 
-  sql 
+  DROP TABLE dogs
+  sql
 
   DB[:conn].execute(sql)
 end

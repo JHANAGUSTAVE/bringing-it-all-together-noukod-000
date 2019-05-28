@@ -36,5 +36,5 @@ def self.create_table
 
     self
   end
-  
+
 end

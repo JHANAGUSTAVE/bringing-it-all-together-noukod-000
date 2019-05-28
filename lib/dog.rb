@@ -43,7 +43,7 @@ def self.create_table
     dog.save
     dog
   end
- 
-  
+
+
 
 end
